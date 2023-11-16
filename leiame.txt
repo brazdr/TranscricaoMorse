@@ -1,0 +1,3 @@
+Programa Desenvolvido no Windows
+
+gcc main.c -o main
