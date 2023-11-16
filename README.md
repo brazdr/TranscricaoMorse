@@ -1,2 +1,2 @@
 # TranscricaoMorse
-A ideia deste trabalho é desenvolver um programa que consiga transcrever mensagens do Código Morse para mensagens de textos, e vice-versa
+A ideia deste trabalho é desenvolver um programa que consiga transcrever mensagens do Código Morse para mensagens de textos, e vice-versa. Para realizar a transcrição das mensagens em código morse, foi utilizado o conceito de árvore digital, organizada de forma, em que a medida que os pontos e traços são lidos, haja a “descida” na árvore até encontrar o símbolo correspondente do alfabeto.
